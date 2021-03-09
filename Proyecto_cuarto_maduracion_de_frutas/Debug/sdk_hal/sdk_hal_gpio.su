@@ -1,0 +1,8 @@
+fsl_gpio.h:161:20:GPIO_PinWrite	24	static
+fsl_gpio.h:188:20:GPIO_PortSet	16	static
+fsl_gpio.h:208:20:GPIO_PortClear	16	static
+fsl_gpio.h:231:20:GPIO_PortToggle	16	static
+sdk_hal_gpio.c:43:11:gpioPutHigh	24	static
+sdk_hal_gpio.c:80:10:gpioPutLow	24	static
+sdk_hal_gpio.c:116:10:gpioPutValue	24	static
+sdk_hal_gpio.c:149:10:gpioPutToggle	24	static
